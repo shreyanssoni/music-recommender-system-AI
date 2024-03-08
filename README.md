@@ -1,6 +1,6 @@
 README _ AI Project
 
-Group 30 - Shreyans Soni, Dhruv Jain, Tushar Chattopadhyay
+Group 30
 
 This repository contains two music recommendation systems: a Matrix Factorization (Singular Value Decomposition) method and a KNN collaborative filtering method.
 
